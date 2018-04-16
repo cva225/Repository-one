@@ -13,6 +13,10 @@ public class SampleClass {
 		d.get("https://www.gmail.com/");
 	//d.findElement(By.xpath(""));
 		
+		//d.findElement(By.xpath(""));//d.findElement(By.xpath(""));
+	//d.findElement(By.xpath(""));
+		
+		//d.findElement(By.xpath(""));//d.findElement(By.xpath(""));
 	}
 
 }
