@@ -6,6 +6,14 @@ public class SSTest extends DriverEngine4 {
 @Test
 public  void m1() {
 	getter().get("https://www.facebook.com/");
+	getter().get("https://www.facebook.com/");
+	getter().get("https://www.facebook.com/");
+	getter().get("https://www.facebook.com/");
+	getter().get("https://www.facebook.com/");
+	getter().get("https://www.facebook.com/");
+	getter().get("https://www.facebook.com/");
+	getter().get("https://www.facebook.com/");getter().get("https://www.facebook.com/");
+	
 
 }
 }
